@@ -1,0 +1,1 @@
+mpv "ytdl://https://music.youtube.com/search?q=BTS"
