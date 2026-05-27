@@ -1,0 +1,1 @@
+mpv https://music.youtube.com/playlist?list=PL77l0DI6UMEhJSyC3GcfnfXPT1YebuWUG&si=RARipghCnfW4IDJz
